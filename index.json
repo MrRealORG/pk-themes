@@ -1,0 +1,118 @@
+{
+  "store": "pk-themes",
+  "updated": "2026-10-30",
+  "themes": [
+    {
+      "id": "pk-crimson",
+      "name": "PK Crimson",
+      "author": "Mr Real",
+      "version": "1.0.0",
+      "description": "Official PK blood-red brand \u00b7 flat matte dark",
+      "preview": "https://raw.githubusercontent.com/MrRealORG/pk-themes/main/previews/pk-crimson.png",
+      "download": "https://raw.githubusercontent.com/MrRealORG/pk-themes/main/packs/pk-crimson-1.0.0.pktheme",
+      "size": 832,
+      "tags": [
+        "official",
+        "dark"
+      ]
+    },
+    {
+      "id": "gold-royale",
+      "name": "Gold Royale",
+      "author": "Mr Real",
+      "version": "1.0.0",
+      "description": "Molten gold on obsidian \u00b7 premium flat look",
+      "preview": "https://raw.githubusercontent.com/MrRealORG/pk-themes/main/previews/gold-royale.png",
+      "download": "https://raw.githubusercontent.com/MrRealORG/pk-themes/main/packs/gold-royale-1.0.0.pktheme",
+      "size": 842,
+      "tags": [
+        "premium",
+        "dark"
+      ]
+    },
+    {
+      "id": "vaporwave",
+      "name": "Vaporwave",
+      "author": "Mr Real",
+      "version": "1.0.0",
+      "description": "Neon pink & cyan \u00b7 80s retro grid energy",
+      "preview": "https://raw.githubusercontent.com/MrRealORG/pk-themes/main/previews/vaporwave.png",
+      "download": "https://raw.githubusercontent.com/MrRealORG/pk-themes/main/packs/vaporwave-1.0.0.pktheme",
+      "size": 894,
+      "tags": [
+        "neon",
+        "retro"
+      ]
+    },
+    {
+      "id": "toxic-green",
+      "name": "Toxic Green",
+      "author": "Mr Real",
+      "version": "1.0.0",
+      "description": "Radioactive creeper green \u00b7 hacker terminal vibes",
+      "preview": "https://raw.githubusercontent.com/MrRealORG/pk-themes/main/previews/toxic-green.png",
+      "download": "https://raw.githubusercontent.com/MrRealORG/pk-themes/main/packs/toxic-green-1.0.0.pktheme",
+      "size": 861,
+      "tags": [
+        "hacker",
+        "dark"
+      ]
+    },
+    {
+      "id": "void-black",
+      "name": "Void Black",
+      "author": "Mr Real",
+      "version": "1.0.0",
+      "description": "True pitch black \u00b7 zero glow, maximum OLED battery",
+      "preview": "https://raw.githubusercontent.com/MrRealORG/pk-themes/main/previews/void-black.png",
+      "download": "https://raw.githubusercontent.com/MrRealORG/pk-themes/main/packs/void-black-1.0.0.pktheme",
+      "size": 838,
+      "tags": [
+        "oled",
+        "minimal"
+      ]
+    },
+    {
+      "id": "strawberry-milk",
+      "name": "Strawberry Milk",
+      "author": "Mr Real",
+      "version": "1.0.0",
+      "description": "Soft pastel pink light mode \u00b7 cozy & clean",
+      "preview": "https://raw.githubusercontent.com/MrRealORG/pk-themes/main/previews/strawberry-milk.png",
+      "download": "https://raw.githubusercontent.com/MrRealORG/pk-themes/main/packs/strawberry-milk-1.0.0.pktheme",
+      "size": 826,
+      "tags": [
+        "light",
+        "pastel"
+      ]
+    },
+    {
+      "id": "mountain-dusk",
+      "name": "Mountain Dusk",
+      "author": "Mr Real",
+      "version": "1.0.0",
+      "description": "Dusk mountain wallpaper \u00b7 ember accents, glass panels",
+      "preview": "https://raw.githubusercontent.com/MrRealORG/pk-themes/main/previews/mountain-dusk.png",
+      "download": "https://raw.githubusercontent.com/MrRealORG/pk-themes/main/packs/mountain-dusk-1.0.0.pktheme",
+      "size": 20844,
+      "tags": [
+        "wallpaper",
+        "scenic"
+      ]
+    },
+    {
+      "id": "aurora-flow",
+      "name": "Aurora Flow",
+      "author": "Mr Real",
+      "version": "1.0.0",
+      "description": "ANIMATED aurora video background \u00b7 icy cyan glow",
+      "preview": "https://raw.githubusercontent.com/MrRealORG/pk-themes/main/previews/aurora-flow.png",
+      "download": "https://raw.githubusercontent.com/MrRealORG/pk-themes/main/packs/aurora-flow-1.0.0.pktheme",
+      "size": 284927,
+      "tags": [
+        "video",
+        "animated"
+      ]
+    }
+  ]
+}
